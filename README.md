@@ -5,7 +5,7 @@
 ## Info
 
 ##### ✮ A simple Better Discord theme with transparent background.
-##### ✮ Aesthic and relaxing look.
+##### ✮ Aesthetic and relaxing look.
 ##### ✮ Wont pressure low end systems.
 
 
