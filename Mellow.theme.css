@@ -3,9 +3,7 @@
 * @version 1
 * @description Relaxing theme, for any customizations dm @Flcooo The Noobist__#1234
 * @author Flcooo The Noobist__#1234
-* @invite FdZhbjY
-* @Source https://github.com/puckzxz/NotAnotherAnimeTheme
-* @website https://betterdiscord.app/theme/NotAnotherAnimeTheme
+* @invite XSCTZsqV
 */
 
 @import url('https://fonts.googleapis.com/css2?family=Acme&family=Rampart+One&display=swap');
@@ -74,6 +72,8 @@ font-family: Acme
 --reaction-emoji-hover-background-color: #ffffff1a;
 --reaction-emoji-hover-border-color: #ffffff33;
 }
+
+/*build file starts here*/
 
 .appMount-3lHmkl {
     background-image: var(--theme-background-image);
